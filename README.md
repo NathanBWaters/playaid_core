@@ -8,7 +8,7 @@ Here is an example output:
 Reach out on discord.playaid.app on the #open-source channel for any questions!
 
 ## What all is in this repository?
-- [x] Punish logic
+- [x] Stats generation and punish logic
 - [x] Ability to create graphs easily and efficiently
 - [x] Deep learning experiments
 
