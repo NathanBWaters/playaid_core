@@ -1,8 +1,9 @@
 # playaid_core
-Core analytics engine for PlayAid, used for analyzing and visualizing the log output of [https://github.com/NathanBWaters/ult_logger](https://github.com/NathanBWaters/ult_logger)
+Core analytics engine for PlayAid, used for analyzing and visualizing the log output of https://github.com/NathanBWaters/ult_logger
 
 Here is an example output:
-(https://www.youtube.com/watch?v=ybTR0AzbDDc)[https://www.youtube.com/watch?v=ybTR0AzbDDc]
+
+[![playaid output](https://img.youtube.com/vi/ybTR0AzbDDc/0.jpg)](https://www.youtube.com/watch?v=ybTR0AzbDDc)
 
 Reach out on discord.playaid.app on the #open-source channel for any questions!
 
