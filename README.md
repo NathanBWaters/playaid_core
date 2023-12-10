@@ -12,7 +12,7 @@ Reach out on discord.playaid.app on the #open-source channel for any questions!
 - [x] Ability to create graphs easily and efficiently
 - [x] Deep learning experiments
 
-## Installation
+## Installation / Usage
 ```
 git clone https://github.com/NathanBWaters/playaid_core
 cd playaid_core
