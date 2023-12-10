@@ -20,3 +20,5 @@ pip install -r requirements.txt
 python playaid/manuscript.py --video-path /path/to/video.mp4 --log-path /path/to/log.txt
 ```
 
+## Questions?
+Reach out on discord.playaid.app on the #open-source channel for any questions!
